@@ -2,7 +2,7 @@ const Summer2025 = () => {
   return (
     <section className="flex justify-center">
       <div className="flex flex-col w-full max-w-[568px] items-center mt-10 px-8 md:px-0">
-        <img src="/assets/deltajune-logo.png" alt='Deltajune' className="w-96"></img>
+        <img src="/assets/deltajune-logo.gif" alt='Deltajune' className="w-96"></img>
         <h1 className="text-deltarune-yellow font-pixel-bold md:text-3xl sm:text-xl text-center">
           CHRISTMAS 2025 
         </h1>
@@ -64,7 +64,6 @@ const Summer2025 = () => {
           <p>I have been curious for a while about potentially dropping a teaser of sorts for this game and seeing what the general interest level would be, but I’m still in love with the idea of shadow dropping it out of the blue.</p>
           <p>I love surprising people (as you might have guessed, from this surprise newsletter), and so what brings me the most joy is imagining people playing a game they had no idea was coming and loving it.</p>
           <p>However, I also don’t want the idea for this game to ever peter out. I love these characters and the world we’ve all had a hand in making, and so I figure there might be a point where I just sort of get tired of working on something in secret.</p>
-          <p>I love surprising people (as you might have guessed, from this surprise newsletter), and so what brings me the most joy is imagining people playing a game they had no idea was coming and loving it.</p>
           <p>All that to say, depending on where we are and how I feel down the road I may end up making this a more public project.</p>
           <p>The fandom at large is gonna adore the things you all have made, and I desperately want to show it to them. But I’m gonna channel that desire as much into getting the game does as I can before I consider putting some of it out there before it is done!</p>
 
@@ -77,11 +76,21 @@ const Summer2025 = () => {
             alt='Jinx painting a picture'
             className="max-h-[175px] self-center mb-10"
           ></img>
+          <img
+            src="/assets/ConceptBoard.png"
+            alt="A collection of Jinx's concept arts"
+            className="max-h-[300px] self-center mb-10"
+          ></img>
           <p>Soup has made some great sprite art this year, including one of our first enemy sprites (which I still think came out great). Soup has also done a lot of cool things for his own stuff this year, if you ever want to check out his twitter page *COUGH* @BowlOfTailsSoup *COUGH*, and I look forward to working with him more in 2026!</p>
           <img
             src="/assets/SoapDrawing.png"
             alt='Soup’s fox cat thing drawing a picture of Tails from Sonic with a deep look of concentration'
             className="max-h-[125px] self-center mb-10"
+          ></img>
+          <img
+            src="/assets/Elctrolite.gif"
+            alt='Elctrolite'
+            className="max-h-[175px] self-center mb-10"
           ></img>
           <p>Sea has a lot of stuff going on irl, but he’s still made time to work on programming stuff for our vertical slice we’ve been working on lately! I’m very thankful to still have such a talented person on this project, and you’ll get to see a lot more of his programming genius later next year. Also he’s working on some banger tracks for the OST so there’s that too</p>
           <img
@@ -95,9 +104,29 @@ const Summer2025 = () => {
             alt='Beefcliff cat looking at a new Thundercracker figure with envy, subtitle reading “I don’t need it” like that one spongebob meme'
             className="max-h-[175px] self-center mb-10"
           ></img>
+          <img
+            src="/assets/Characters.png"
+            alt='Three experimentations of the same character'
+            className="max-h-[300px] self-center mb-10"
+          ></img>
+          <img
+            src="/assets/PotionFellas.png"
+            alt='Potion based characters'
+            className="max-h-[300px] self-center mb-10"
+          ></img>
+          <img
+            src="/assets/WrenchCar.png"
+            alt='Tool based characters on a car'
+            className="max-h-[175px] self-center mb-10"
+          ></img>
           <p>As for me, I’ve managed to make a lot of progress with the script as well as the general plan and outline for the game.</p>
           <p>Enough so that we can start working on the vertical slice in full force, and hopefully get it done in the first half of 2026! That is ambitious I know, but I’m gonna put as many hours into the Gamemaker Mines as I can in order to make it happen…</p>
           <p>I’m also planning a full read through of the ACT I script once it is completed, so stay tuned for that!</p>
+          <img
+            src="/assets/Script.png"
+            alt='Deltajune script'
+            className="max-h-[750px] self-center mb-10"
+          ></img>
           <p>So what else is there left to talk about? Well…</p>
 
           <img
@@ -125,7 +154,7 @@ const Summer2025 = () => {
             AND…A CHRISTMAS QUEST?
           </h2>
           <p>
-            Oh yeah, that last surprise I mentioned earlier. Well, it is free to download here and you can look at it whenever you please. I hope you all enjoy :)
+            Oh yeah, that last surprise I mentioned earlier. Well, be on the lookout for it. You’ll know when you see it I’m sure. I hope you all enjoy :)
           </p>
           <img
             src="/assets/KitBugYanta&TeachOpeningGifts.png"
