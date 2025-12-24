@@ -2,7 +2,7 @@ const Summer2025 = () => {
   return (
     <section className="flex justify-center">
       <div className="flex flex-col w-full max-w-[568px] items-center mt-10 px-8 md:px-0">
-        <img src="/assets/deltajune-logo.gif" alt='Deltajune' className="w-96"></img>
+        <img src="/assets/deltajune-logo.png" alt='Deltajune' className="w-96"></img>
         <h1 className="text-deltarune-yellow font-pixel-bold md:text-3xl sm:text-xl text-center">
           CHRISTMAS 2025 
         </h1>
