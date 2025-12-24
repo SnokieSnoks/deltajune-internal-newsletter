@@ -98,13 +98,3 @@ li {
   font-family: 'pixel-bold';
 }
 
-.grid-background {
-  background-image: url('/assets/q12025/grid.png');
-  -webkit-mask: linear-gradient(
-    transparent,
-    #000 12%,
-    #000 90%,
-    transparent 100%
-  );
-  mask: linear-gradient(transparent, #000 12%, #000 90%, transparent 100%);
-}
