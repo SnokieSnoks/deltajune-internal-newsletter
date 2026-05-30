@@ -1,4 +1,4 @@
-const Summer2025 = () => {
+const Christmas2025 = () => {
   return (
     <section className="flex justify-center">
       <div className="flex flex-col w-full max-w-[568px] items-center mt-10 px-8 md:px-0">
@@ -12,7 +12,7 @@ const Summer2025 = () => {
         <div className="flex flex-col">
           <p className='mt-10'>This is but one of the Christmas surprises I’ve made this year…stay tuned…</p>
           <img
-            src="/assets/TeachSmartSoap.png"
+            src="/assets/christmas2025/TeachSmartSoap.png"
             alt='Smart Soap for Smart Men” with a picture of a bar of soap with wire patterns and an apple logo on it'
             className="max-h-[175px] self-center"
           ></img>
@@ -31,7 +31,7 @@ const Summer2025 = () => {
             PROGRESS MADE THIS YEAR
           </h2>
           <img
-            src="/assets/YantaOnTheComputer.png"
+            src="/assets/christmas2025/YantaOnTheComputer.png"
             alt='Yanta with her trademark tired expression on a computer setup'
             className="max-h-[175px] self-center mb-10"
           ></img>
@@ -45,7 +45,7 @@ const Summer2025 = () => {
             EXPANDING THE TEAM
           </h2>
           <img
-            src="/assets/KitKitKitKit&Kit.png"
+            src="/assets/christmas2025/KitKitKitKit&Kit.png"
             alt='Kit with a clipboard looking over four other Kits, each a different color palette from his original design phase'
             className="max-h-[200px] self-center mb-10"
           ></img>
@@ -57,7 +57,7 @@ const Summer2025 = () => {
             GOING FORWARD
           </h2>
           <img
-            src="/assets/YantaKit&BugLookingForward.png"
+            src="/assets/christmas2025/YantaKit&BugLookingForward.png"
             alt='Bug pointing ahead with Yanta and Kit behind them'
             className="max-h-[200px] self-center mb-10"
           ></img>
@@ -72,50 +72,50 @@ const Summer2025 = () => {
           </h2>
           <p>2025 has still been an eventful year for the project! We had the wonderful Jinx join our team and provide some absolutely gorgeous environment concept art, which will be made into our tilesets and backgrounds!</p>
           <img
-            src="/assets/JinxPainting.png"
+            src="/assets/christmas2025/JinxPainting.png"
             alt='Jinx painting a picture'
             className="max-h-[175px] self-center mb-10"
           ></img>
           <img
-            src="/assets/ConceptBoard.png"
+            src="/assets/christmas2025/ConceptBoard.png"
             alt="A collection of Jinx's concept arts"
             className="max-h-[300px] self-center mb-10"
           ></img>
           <p>Soup has made some great sprite art this year, including one of our first enemy sprites (which I still think came out great). Soup has also done a lot of cool things for his own stuff this year, if you ever want to check out his twitter page *COUGH* @BowlOfTailsSoup *COUGH*, and I look forward to working with him more in 2026!</p>
           <img
-            src="/assets/SoapDrawing.png"
+            src="/assets/christmas2025/SoapDrawing.png"
             alt='Soup’s fox cat thing drawing a picture of Tails from Sonic with a deep look of concentration'
             className="max-h-[125px] self-center mb-10"
           ></img>
           <img
-            src="/assets/Elctrolite.gif"
+            src="/assets/christmas2025/Elctrolite.gif"
             alt='Elctrolite'
             className="max-h-[175px] self-center mb-10"
           ></img>
           <p>Sea has a lot of stuff going on irl, but he’s still made time to work on programming stuff for our vertical slice we’ve been working on lately! I’m very thankful to still have such a talented person on this project, and you’ll get to see a lot more of his programming genius later next year. Also he’s working on some banger tracks for the OST so there’s that too</p>
           <img
-            src="/assets/SeaMonsterPiano.png"
+            src="/assets/christmas2025/SeaMonsterPiano.png"
             alt='Sea monster playing on a piano'
             className="max-h-[175px] self-center mb-10"
           ></img>
           <p>And last but certainly not least, Casey has been absolutely rocking it this year. She’s been making lots of great character designs and illustrations for us all to enjoy, as well as helping me out with the script and figuring out some greater writing tasks. Truly this project would not be as good (or probably exist at all) if not for her.</p>
           <img
-            src="/assets/BeefcliffThundercrackerCaption.png"
+            src="/assets/christmas2025/BeefcliffThundercrackerCaption.png"
             alt='Beefcliff cat looking at a new Thundercracker figure with envy, subtitle reading “I don’t need it” like that one spongebob meme'
             className="max-h-[175px] self-center mb-10"
           ></img>
           <img
-            src="/assets/Characters.png"
+            src="/assets/christmas2025/Characters.png"
             alt='Three experimentations of the same character'
             className="max-h-[300px] self-center mb-10"
           ></img>
           <img
-            src="/assets/PotionFellas.png"
+            src="/assets/christmas2025/PotionFellas.png"
             alt='Potion based characters'
             className="max-h-[300px] self-center mb-10"
           ></img>
           <img
-            src="/assets/WrenchCar.png"
+            src="/assets/christmas2025/WrenchCar.png"
             alt='Tool based characters on a car'
             className="max-h-[175px] self-center mb-10"
           ></img>
@@ -123,14 +123,14 @@ const Summer2025 = () => {
           <p>Enough so that we can start working on the vertical slice in full force, and hopefully get it done in the first half of 2026! That is ambitious I know, but I’m gonna put as many hours into the Gamemaker Mines as I can in order to make it happen…</p>
           <p>I’m also planning a full read through of the ACT I script once it is completed, so stay tuned for that!</p>
           <img
-            src="/assets/Script.png"
+            src="/assets/christmas2025/Script.png"
             alt='Deltajune script'
             className="max-h-[750px] self-center mb-10"
           ></img>
           <p>So what else is there left to talk about? Well…</p>
 
           <img
-            src="/assets/YantaChristmasBlastCaption.png"
+            src="/assets/christmas2025/YantaChristmasBlastCaption.png"
             alt='Yanta yelling “CHRISTMAS BLAST” with her horns glowing and presents floating around her'
             className="max-h-[250px] self-center mb-10 mt-30"
           ></img>
@@ -157,14 +157,14 @@ const Summer2025 = () => {
             Oh yeah, that last surprise I mentioned earlier. Well, be on the lookout for it. You’ll know when you see it I’m sure. I hope you all enjoy :)
           </p>
           <img
-            src="/assets/KitBugYanta&TeachOpeningGifts.png"
+            src="/assets/christmas2025/KitBugYanta&TeachOpeningGifts.png"
             alt='Bug, Yanta, Kit, and Teach all opening a christmas present'
             className="max-h-[250px] self-center mb-50"
           ></img>
           <p>
             And a special thanks to Snokie, who did all of the amazing doodles in this newsletter and advised me on how to put it together, as well as Caramel for teaching me a lot about running a fan game team! They’ve been so fun to work with on Wandering Makers (a cool Deltarune fan game project), and I feel much more confident in what I want to be doing going forward because of them.</p>
           <img
-            src="/assets/BugKrisDapping.png"
+            src="/assets/christmas2025/BugKrisDapping.png"
             alt='Kris from Deltarune'
             className="mt-5 mb-20 self-center max-h-[200px]"
           ></img>
@@ -175,4 +175,4 @@ const Summer2025 = () => {
   );
 };
 
-export default Summer2025;
+export default Christmas2025;
