@@ -4,7 +4,7 @@ const Summer2026 = () => {
       <div className="flex flex-col w-full max-w-[568px] items-center mt-10 px-8 md:px-0">
         <img src="/assets/deltajune-logo.png" alt='Deltajune' className="w-96"></img>
         <h1 className="text-deltarune-yellow font-pixel-bold md:text-3xl sm:text-xl text-center">
-          SUMMER 2025 
+          SUMMER 2026 
         </h1>
         <div className="flex flex-col">
           <p className='mt-10'>Deltarune may not be tomorrow…but the Month of Deltajune is NOW</p>
