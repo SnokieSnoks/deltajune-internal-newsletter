@@ -6,10 +6,15 @@ function DynamicTitle() {
 
   react.useEffect(() => {
     if (location.pathname === "/") {
-      document.title = "DELTAJUNE INTERNAL NEWSLETTER: CHRISTMAS 2025";
+      document.title = "DELTAJUNE Newsletter";
+    } else if (location.pathname === "/christmas2025") {
+      document.title = "DELTAJUNE Newsletter: Issue 1 - Christmas 2025";
+    } else if (location.pathname === "/summer2026") {
+      document.title = "DELTAJUNE Newsletter: Issue 2 - Summer 2026";
     } else {
-      document.title = "what are you doing here go back";
+      document.title = "what are you doing here?? Go back!!!";
     }
+    
   }, [location.pathname]);
 
   return null;
