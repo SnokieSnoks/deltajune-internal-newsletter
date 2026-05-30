@@ -15,7 +15,7 @@ const Archive = () => {
           >
             <h2 className="text-xl text-yellow-300">ISSUE 2 - Summer 2026</h2>
             <p className="!font-pixel-bold">
-              Heeeeey everyone! Do you still remember us?
+              Deltarune may not be tomorrow…but the Month of Deltajune is NOW
             </p>
           </NavLink>
           <NavLink
